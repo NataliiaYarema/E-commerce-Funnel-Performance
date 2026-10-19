@@ -73,9 +73,9 @@ The sharpest deterioration is at the last stage: the share of users who complete
 
 The problem appears in every analysed segment:
 
-- **Devices:** Desktop — 23.2% · Mobile — 25.8% · Tablet — 28.6%
-- **Sources:** Unknown — 20.5% · Google — 22.5% · Direct — 23.7% · Shop — 27.0% · Other — 28.8%
-- **Countries:** Canada — 15.8% · Spain — 25.0% · India — 27.3% · USA — 27.6%
+- **Devices:** Desktop – 23.2% · Mobile – 25.8% · Tablet – 28.6%
+- **Sources:** Unknown – 20.5% · Google – 22.5% · Direct – 23.7% · Shop – 27.0% · Other – 28.8%
+- **Countries:** Canada – 15.8% · Spain – 25.0% · India – 27.3% · USA – 27.6%
 
 A similar deviation across different segments supports the hypothesis of a system-wide problem rather than a local drop in traffic quality.
 
